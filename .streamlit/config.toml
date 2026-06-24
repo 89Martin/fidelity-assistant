@@ -1,0 +1,10 @@
+# Professional Fidelity-inspired theme (green accent on clean white).
+[theme]
+primaryColor = "#4b9b3f"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f4f7f4"
+textColor = "#1c2b1a"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false

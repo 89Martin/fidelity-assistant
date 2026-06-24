@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+# Real secrets — never commit. The *.example template is safe to commit.
+.streamlit/secrets.toml
